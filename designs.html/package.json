@@ -1,0 +1,14 @@
+{
+  "name": "54e6ef3c97b27617",
+  "main": "54e6ef3c97b27617@467.js",
+  "version": "467.0.0",
+  "homepage": "https://observablehq.com/d/54e6ef3c97b27617",
+  "author": {
+    "name": "Mosab Rezaei",
+    "url": "https://observablehq.com/@mosab-rezaei"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
